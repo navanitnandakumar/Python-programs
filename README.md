@@ -1,4 +1,4 @@
-# 🟠 Python-projects 🟠
+# 🐍 Python-projects 🐍
 
 This repo consists of my projects using python.
 
