@@ -8,4 +8,4 @@ This repo consists of my projects using python.
 
 ◾ Pong : A version of the classic pong game.
 
-◾ Tic tac toe : A simple version of the classic tic-tac-toe game.
+◾ Tic Tac Toe : A simple version of the classic tic-tac-toe game.
