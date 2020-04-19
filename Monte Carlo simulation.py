@@ -1,7 +1,7 @@
 #-----Explanation-----
 
 #Q. You are exploring a new city, which is divided into perfect blocks, by taking a walk outside.
-#   If the distance between the starting point and your current position is greater than 4 blocks, you will need transport to get back.
+#   If the distance between the starting point and your current position is greater than 4 blocks, you will need a transport to get back.
 #   You are allowed to move north, south, east, or west. Backward movement is also permitted.
 #   What is the longest random walk you can take, so that you will not require a transport to get back?
 
