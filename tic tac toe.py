@@ -2,7 +2,7 @@
 board = ["-", "-", "-",
          "-", "-", "-",
          "-", "-", "-"]
-#Global variables
+#global variables
 game_still_going = True
 winner = None
 current_player = 'X'
