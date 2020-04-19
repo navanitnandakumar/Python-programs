@@ -1,4 +1,5 @@
-emoticon_conv = {                   #dictionary
+emoticon_conv = {                  
+    #dictionary
     ":)":"😊",
     ":(":"😢",
     ":D":"😃",
@@ -7,8 +8,12 @@ emoticon_conv = {                   #dictionary
     ";)":"😉"
 }
 
-print("-------- 🔹 Emoticon Converter 🔹 --------")               
-emote = input("Enter emoticon (in modern format) : ")          #user input
-output_emoji = ""                                              #this is the variable used to store the emoji
-output_emoji += emoticon_conv.get(emote) + " "                 #using dictionary to convert emote to emoji
-print(output_emoji)                                            #to print emoji
+print("-------- 🔹 Emoticon Converter 🔹 --------")
+#user input
+emote = input("Enter emoticon (in modern format) : ")    
+#to store the emoji
+output_emoji = ""    
+#using dictionary to convert emote to emoji
+output_emoji += emoticon_conv.get(emote) + " "   
+#to print emoji
+print(output_emoji)                                           
