@@ -1,5 +1,3 @@
-#pong 
-#made by @navanxt
 import turtle
 
 #screen -
