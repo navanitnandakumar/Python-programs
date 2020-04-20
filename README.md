@@ -15,3 +15,5 @@ This repo consists of my projects using python.
 ◾ Random walk 1D : A random walk visualizer in 1D.
 
 ◾ Random walk 2D : A random walk visualizer in 2D.
+
+◾ Image plots : Shows an image in various colour configurations and plots a histogram.
