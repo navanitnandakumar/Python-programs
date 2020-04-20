@@ -11,3 +11,5 @@ This repo consists of my projects using python.
 ◾ Tic Tac Toe : A simple version of the classic tic-tac-toe game.
 
 ◾ Monte Carlo simulation : Uses random fn to solve a problem using the Monte Carlo method.
+
+◾ Random walk 2d : A random walk visualizer in 2D.
