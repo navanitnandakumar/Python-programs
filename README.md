@@ -12,4 +12,6 @@ This repo consists of my projects using python.
 
 ◾ Monte Carlo simulation : Uses random fn to solve a problem using the Monte Carlo method.
 
-◾ Random walk 2d : A random walk visualizer in 2D.
+◾ Random walk 1D : A random walk visualizer in 1D.
+
+◾ Random walk 2D : A random walk visualizer in 2D.
