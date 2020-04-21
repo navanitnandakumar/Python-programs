@@ -4,7 +4,7 @@ from netCDF4 import Dataset as dt
 from matplotlib.colors import LightSource
 
 #download .nc topography data from --> http://apdrc.soest.hawaii.edu/las/v6/dataset?catitem=1285
-#it contains the topography data of oceans as a netCDF file
+#it contains the bathymetry of the Indian ocean
 #save as netCDF file
 filestr = 'yourfilenamegoeshere.nc'
 
