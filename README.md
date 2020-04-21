@@ -17,3 +17,5 @@ This repo consists of my projects using python.
 ◾ Random walk 2D : A random walk visualizer in 2D.
 
 ◾ Image plots : Shows an image in various colour configurations and plots a histogram.
+
+◾ Topography shading : Shows topography features of a region using topography shading.
