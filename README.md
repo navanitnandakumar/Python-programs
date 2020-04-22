@@ -2,7 +2,7 @@
 
 This repo consists of my projects using python.
 
-◾ Face detection : Detects faces in video using opencv in python.
+◾ Face detection : Detects faces in video using opencv.
 
 ◾ Emoticon converter : Converts the entered emoticon (in the standard format) into an emoji.
 
