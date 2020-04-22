@@ -1,6 +1,7 @@
 import cv2
 
 #'haarcascade_frontalface_default.xml' needs to be downloaded before running
+#file is given in this repo
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 #capturing video using webcam
