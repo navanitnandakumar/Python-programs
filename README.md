@@ -8,6 +8,8 @@ This repo consists of my projects using python.
 
 ◾ Tic Tac Toe : A simple version of the classic tic-tac-toe game.
 
+◾ ATM : A simulation of an ATM.
+
 ◾ YouTube video downloader : Downloads YouTube videos from URL.
 
 ◾ Monte Carlo simulation : Uses random fn to solve a problem using the Monte Carlo method.
