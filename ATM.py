@@ -42,7 +42,7 @@ while chances >= 0:
                 if restart in ('n', 'N', 'no', 'NO', 'No'):
                     print("----- Thank You -----")
                     break
-            elif withdrawal != [1,10,20,40,60,80,100]:
+            elif withdrawal not in [1,10,20,40,60,80,100]:
                 print("- Invalid amount!")
                 restart = 'Y'
             elif withdrawal == 1:
