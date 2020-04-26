@@ -6,6 +6,8 @@ This repo consists of my projects using python.
 
 ◾ Pong : A version of the classic pong game.
 
+◾ Calendar : A GUI calendar. 
+
 ◾ Tic Tac Toe : A simple version of the classic tic-tac-toe game.
 
 ◾ ATM : A simulation of an ATM.
