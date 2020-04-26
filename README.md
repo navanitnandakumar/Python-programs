@@ -22,6 +22,8 @@ This repo consists of my projects using python.
 
 ◾ Guess the number : A number game ,in which a randomly generated number between 0 and 9 is to be guessed.
 
+◾ Alarm : A simple beep alarm.
+
 ◾ Image plots : Shows an image in various colour configurations and plots a histogram.
 
 ◾ Topography shading : Shows topography features of a region using topography shading.
