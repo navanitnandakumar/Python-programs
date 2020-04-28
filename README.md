@@ -14,6 +14,8 @@ This repo consists of my projects using python.
 
 ◾ YouTube video downloader : Downloads YouTube videos from URL.
 
+◾ Internet speed tester : Shows your current upload and download speed.
+
 ◾ Monte Carlo simulation : Uses random fn to solve a problem using the Monte Carlo method.
 
 ◾ Random walk 1D : A random walk visualizer in 1D.
