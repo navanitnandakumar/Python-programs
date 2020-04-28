@@ -1,5 +1,7 @@
 import cv2
 
+print("- Caution! Your webcam is going to turn on in a few seconds!")
+print("- Once the window is open, press 'Esc' to quit.")
 #'haarcascade_frontalface_default.xml' needs to be downloaded before running
 #file is given in this repo
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
