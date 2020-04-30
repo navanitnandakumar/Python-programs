@@ -22,6 +22,8 @@ This repo consists of my projects using python.
 
 ◾ Random walk 2D : A random walk visualizer in 2D.
 
+◾ Password generator : Generates random passwords of a given length.
+
 ◾ Emoticon converter : Converts the entered emoticon (in the standard format) into an emoji.
 
 ◾ Email sender : Sends emails through gmail
