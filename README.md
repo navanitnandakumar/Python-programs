@@ -1,7 +1,5 @@
 # Python-projects
 
-![](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
-
 This repo consists of my projects using python.
 
 ◾ Face detection : Detects faces in video using opencv.
