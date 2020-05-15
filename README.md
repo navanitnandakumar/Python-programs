@@ -1,6 +1,6 @@
 # Python-programs
 
-###This repo consists of my programs using python.
+### This repo consists of my programs using python.
 
 <ul>
   <li>Face detection : Detects faces in video using opencv.</li>
