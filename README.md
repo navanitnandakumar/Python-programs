@@ -3,7 +3,6 @@
 ### This repo consists of my programs using python :-
 
 <ul>
-  <li>Face detection : Detects faces in video using opencv.</li>
   <li>Pong : A version of the classic pong game.</li>
   <li>Calendar : A GUI calendar.</li>
   <li>Tic Tac Toe : A simple version of the classic tic-tac-toe game.</li>
