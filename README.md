@@ -4,7 +4,6 @@
 
 <ul>
   <li>Pong : A version of the classic pong game.</li>
-  <li>Calendar : A GUI calendar.</li>
   <li>Tic Tac Toe : A simple version of the classic tic-tac-toe game.</li>
   <li>ATM : A simulation of an ATM.</li>
   <li>YouTube video downloader : Downloads YouTube videos from URL.</li>
