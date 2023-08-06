@@ -1,6 +1,6 @@
 # Python-programs
 
-### This repo consists of my programs using python :-
+### This repo consists of some mini-projects that helped me understand and learn Python :-
 
 <ul>
   <li>Pong : A version of the classic pong game.</li>
