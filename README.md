@@ -12,5 +12,4 @@
   <li>Alarm : A simple beep alarm.</li>
   <li>Face detection : A program that helps to detect faces in webcam video feed.</li>
   <li>Eye mouse : A program that helps to control the cursor using eye movements.</li>
-  <li>Expense tracker : A simple expense tracker application built using Flask, SQL Alchemy, and Chart.js</li>
 </ul>
