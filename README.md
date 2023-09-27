@@ -7,7 +7,6 @@
   <li>Tic Tac Toe : A simple version of the classic tic-tac-toe game.</li>
   <li>ATM : A simulation of an ATM.</li>
   <li>Password generator : Generates random passwords of a given length.</li>
-  <li>Emoticon converter : Converts the entered emoticon (in the standard format) into an emoji.</li>
   <li>Guess the number : A number game in which a randomly generated number between 0 and 9 is to be guessed.</li>
   <li>Alarm : A simple beep alarm.</li>
   <li>Face detection : A program that helps to detect faces in webcam video feed.</li>
